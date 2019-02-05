@@ -34,5 +34,8 @@ public class Main
         theLab.exercise6();
         theLab.exercise7();
         theLab.exercise8();
+        theLab.exercise9();
+        theLab.exercise10();
+        theLab.exercise11();
     }
 }
